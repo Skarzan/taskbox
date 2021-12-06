@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e8503c6-c4c2-4353-a925-44f5fbba48fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/chromatic.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/chromatic.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638372397778</updated>
       <workItem from="1638372429470" duration="5705000" />
-      <workItem from="1638775256514" duration="8684000" />
+      <workItem from="1638775256514" duration="8814000" />
     </task>
     <servers />
   </component>
