@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8503c6-c4c2-4353-a925-44f5fbba48fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/chromatic.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/chromatic.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Task.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +22,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1638372891" />
+                    <option name="branchName" value="change-test-background" />
+                    <option name="lastUsedInstant" value="1638805693" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1638372890" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1638372891" />
                   </RecentBranch>
                 </list>
               </option>
@@ -64,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638372397778</updated>
       <workItem from="1638372429470" duration="5705000" />
-      <workItem from="1638775256514" duration="8814000" />
+      <workItem from="1638775256514" duration="9392000" />
     </task>
     <servers />
   </component>
