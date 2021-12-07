@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9e8503c6-c4c2-4353-a925-44f5fbba48fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__snapshots__/storybook.test.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/__snapshots__/storybook.test.js.snap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Task.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Task.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task.stories.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +24,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="change-test-background" />
-                    <option name="lastUsedInstant" value="1638805693" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1638806599" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1638372891" />
+                    <option name="branchName" value="change-test-background" />
+                    <option name="lastUsedInstant" value="1638805693" />
                   </RecentBranch>
                 </list>
               </option>
@@ -82,5 +84,9 @@
     </state>
     <state x="624" y="351" key="com.intellij.ide.util.TipDialog/0.25.1920.995/-1680.25.1680.1025/1920.-815.1080.1895@0.25.1920.995" timestamp="1638775258229" />
     <state x="624" y="351" key="com.intellij.ide.util.TipDialog/0.25.1920.995/-1680.25.1680.1025@0.25.1920.995" timestamp="1638372412307" />
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1638862822192">
+      <screen x="0" y="25" width="1920" height="995" />
+    </state>
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup/1920.25.1680.1025/0.25.1920.995@0.25.1920.995" timestamp="1638862822192" />
   </component>
 </project>
